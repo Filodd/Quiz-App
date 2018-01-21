@@ -14,4 +14,4 @@ To reset the score, a Reset button has been added.
 
 # Screenshots
 
-![Alt text](quiz_SC.png?raw=true "Title")
+![Alt text](quiz_SC_1.png?raw=true "Title")
