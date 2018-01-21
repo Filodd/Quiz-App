@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Quiz App-Basilicata!</string>
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--RadioGroup of all questions-->
+    <string name="radioGroup_1">RadioGroup</string>
+    <string name="radioGroup_2">RadioGroup</string>
+    <string name="radioGroup_3">RadioGroup</string>
+
+    <!-- Answer to the question n.1 "What is Basilicata?" -->
+    <string name="First_q">1. What is Basilicata?</string>
+    <string name="q_1a">A region in Southern France</string>
+    <string name="q_1b">A region in Northern Italy</string>
+    <string name="q_1c">A region in Southern Italy</string>
+
+    <!-- Answers to the question n.2 "Basilicata is also known..."-->
+    <string name="Second_q">2. Basilicata is also known as....</string>
+    <string name="q_2a">Lucania</string>
+    <string name="q_2b">Lucconia</string>
+    <string name="q_2c">Puglia</string>
+
+    <!-- Answers to the question n.3"How many provinces does Basilicata have?"-->
+    <string name="Third_q">3. How many provinces does Basilicata have?</string>
+    <string name="q_3a">Three: Potenza, Matera, Maratea </string>
+    <string name="q_3b">Four: Melfi, Potenza, Matera, Taranto</string>
+    <string name="q_3c">Two: Potenza, Matera</string>
+
+    <!-- Answers to the question n.4"What is the name of the regional Capital?"(Edit Text)-->
+    <string name="Fourth_q">4. What is the name of the regional Capital?</string>
+    <string name="a_four_hint_text">Enter city name</string>
+
+    <!-- Answers to the question n.5 "On 17 October 2014, which city was declared italian host of
+    European Capital of Culture for 2019?"-->
+    <string name="fifth_q">5. On 17 October 2014, which city was declared Italian host of European
+    Capital of Culture for 2019?</string>
+    <string name="q_5a">Matera </string>
+    <string name="q_5b">Potenza</string>
+    <string name="q_5c">Maratea</string>
+
+    <!-- Answers to the question n.6 "Which seas touches Basilicata?"-->
+    <string name="sixth_q">6. Which seas touch Basilicata?</string>
+    <string name="q_6a">Ionian</string>
+    <string name="q_6b">Tyrrhenian</string>
+    <string name="q_6c">Adriatic</string>
+
+    <!-- Answers to the question n.7 "In the article "52 Places to go in 2018", The New York Time
+    has positioned Basilicata at...."-->
+    <string name="Seventh_q">7. In the article, \"52 Places to go in 2018\", the New York Times has
+     positioned Basilicata at....</string>
+    <string name="q_7a">Third Place</string>
+    <string name="q_7b">Tenth Place</string>
+    <string name="q_7c">Twentysecond Place</string>
+
+
+    <!-- Answers to the question n.8 "How are the inhabitants of Basilicata called?"-->
+    <string name="eight_q">8. How are the inhabitants of Basilicata called?</string>
+    <string name="a_eight_hint_text">Enter inhabitants name</string>
+
+    <!-- Answers to the question n.9 "What is the population of Basilicata in 2017?"-->
+    <string name="nine_q">9. What is the population of Basilicata in 2017?</string>
+    <string name="q_9a">570.365 </string>
+    <string name="q_9b">423.750</string>
+    <string name="q_9c">750.360</string>
+
+    <!-- Answers to the question n.10 "Which famous persons have Basilicata origins?"-->
+    <string name="ten_q">10. Which famous persons have Basilicata origins?</string>
+    <string name="q_10a">Robert De Niro </string>
+    <string name="q_10b">Francis Ford Coppola</string>
+    <string name="q_10c">Danny De Vito</string>
+    <string name="q_10d">Al Pacino</string>
+
+
+    <!--Submit Button -->
+    <string name="submit_answer">Submit</string>
+
+    <!--Reset Answer Button -->
+    <string name="reset_answer">Reset</string>
+</resources>
