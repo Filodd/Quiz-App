@@ -11,3 +11,7 @@ Each correct answer gets a score of 1. The total score is shown as a Toast messa
 This button also opens a link to the official website of “Basilicata”.
 
 To reset the score, a Reset button has been added.
+
+# Screenshots
+
+![Alt text](quiz_SC.png?raw=true "Title")
